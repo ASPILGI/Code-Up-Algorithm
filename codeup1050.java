@@ -8,7 +8,8 @@ public class Main {
 
     sc.close();
 
-    if(a>b){
+    // 비교-관계연산자는 >,<,>=,<=,==(같다),!=(다르다) 6개가 있다 
+    if(a==b){
       System.out.println(1);
     }else{
       System.out.println(0);

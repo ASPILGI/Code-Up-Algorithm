@@ -7,8 +7,9 @@ public class Main {
     int b = sc.nextInt();
 
     sc.close();
-
-    if(a>b){
+ 
+    // <= 가 맞고 =<는 틀리다
+    if(a<=b){
       System.out.println(1);
     }else{
       System.out.println(0);
