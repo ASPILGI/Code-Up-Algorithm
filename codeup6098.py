@@ -31,4 +31,4 @@ for i in range(1, 11):
     print(list[i][j],end=' ')
   print()
 
-////////////// 마지막 ///
+// 마지막 //
